@@ -11,6 +11,10 @@ The system includes:
 - Web UI using Streamlit
 - End-to-end deployment ready structure
 
+## LIVE FRONTEND LINK ✔ 
+External URL: http://54.145.250.53:8501
+
+
 ---
 
 ## 🧠 Machine Learning Models Used
